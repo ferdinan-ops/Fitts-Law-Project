@@ -1,0 +1,15 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Fitts Law\bin\Debug\Fitts Law.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\bin\Debug\Fitts Law.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts_Law.Fitt_s_Law_Game.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts_Law.Fitt_s_Law_Hasil.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts_Law.Fitt_s_Law_Petunjuk.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts_Law.Fitt_s_Law.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts_Law.Resources.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts Law.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\bin\Debug\Fitts Law.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\bin\Debug\Fitts Law.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\bin\Debug\Fitts Law.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts Law.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts Law.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Fitts Law Project\Fitts Law\Fitts Law\obj\Debug\Fitts Law.pdb
