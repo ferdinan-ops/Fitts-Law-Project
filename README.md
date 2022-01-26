@@ -5,11 +5,11 @@
 <ol>
   <li><b>Language:</b> Visual Basic.</li>
   <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
-  <li><b>:</b> </li>
-  <li><b>:</b> </li>
+  <!-- <li><b>:</b> </li>
+  <li><b>:</b> </li> -->
 </ol>
 
-<h2>Goals</h2>
+<!-- <h2>Goals</h2> -->
 
 
 # ScreenShoots
