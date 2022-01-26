@@ -4,7 +4,7 @@
 <h2>What I used</h2>
 <ol>
   <li><b>Language:</b> Visual Basic.</li>
-  <li><b>:</b> </li>
+  <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
   <li><b>:</b> </li>
   <li><b>:</b> </li>
 </ol>
