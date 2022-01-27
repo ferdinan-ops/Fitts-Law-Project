@@ -4,9 +4,9 @@
 <h2>What I used</h2>
 <ol>
   <li><b>Language:</b> Visual Basic.</li>
-  <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
-  <li><b>Framework:</b> GUNA UI</li>
-  <!--<li><b>:</b> </li> -->
+  <li><b>IDE:</b> Microsoft Visual Studio 2012.</li>
+  <li><b>Framework:</b> GUNA UI.</li>
+  <li><b>Pictures:</b> Pinterest, Dribble, Freepik, Flaticon.</li>
 </ol>
 
 <!-- <h2>Goals</h2> -->
