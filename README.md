@@ -12,7 +12,7 @@
 <h2>Goals</h2>
 <ol>
     <li>You will observe the effect of target distance and target size on the GUI target selection time.</li>
-    <li></li>
+    <li>You  can  apply  fitt's  law  in designing  and placing widgets on computer interface.</li>
 </ol>
 
 
