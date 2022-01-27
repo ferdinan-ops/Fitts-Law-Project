@@ -9,7 +9,7 @@
   <li><b>Pictures:</b> Pinterest, Dribble, Freepik, Flaticon.</li>
 </ol>
 
-<!-- <h2>Goals</h2> -->
+<h2>Goals</h2>
 
 
 # ScreenShoots
