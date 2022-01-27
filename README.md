@@ -11,7 +11,7 @@
 
 <h2>Goals</h2>
 <ol>
-    <li></li>
+    <li>You will observe the effect of target distance and target size on the GUI target selection time.</li>
     <li></li>
 </ol>
 
