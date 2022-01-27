@@ -10,6 +10,10 @@
 </ol>
 
 <h2>Goals</h2>
+<ol>
+    <li></li>
+    <li></li>
+</ol>
 
 
 # ScreenShoots
