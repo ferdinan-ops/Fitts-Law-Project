@@ -5,8 +5,8 @@
 <ul>
     <li>Big targets at close distance are acquired faster than small targets at long range.</li>
     <li>Target  acquiring difficulty increases by one unit for each doubling of  distance  and halving of width  of  target.</li>
-    <!--<li>Fitts's Law can be used  to evaluate  alternative interaction methods in Graphical User Interface (GUI).</li>
-    <li>It can also be used to predict the performance of operators in user-adaptive systems.</li>-->
+    <li>Fitts's Law can be used  to evaluate  alternative interaction methods in Graphical User Interface (GUI).</li>
+    <!--<li>It can also be used to predict the performance of operators in user-adaptive systems.</li>-->
 </ul>
 
 <h2>What I used</h2>
