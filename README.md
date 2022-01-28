@@ -1,4 +1,4 @@
-# Fitts Law Project
+# Fitts Law Game
 <p>Fitts's law is a model of speed-accuracy tradeoffs used in human–computer interaction and ergonomics. It  predicts time required to acquire a target on screen as a function of the distance to the target and the size of the target. Fitts's law is used to model the act of pointing, either by physically touching an object with a hand,finger or virtually  or  by pointing to an object on a computer monitor using a pointing device. It was proposed by Paul Fitts in 1954.</p>
 
 <h2>Physical interpretation and application of Fitts’s Law </h2>
