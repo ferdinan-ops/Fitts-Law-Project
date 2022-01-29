@@ -31,12 +31,12 @@
         <img src="https://user-images.githubusercontent.com/84588706/150975294-fe5529d0-2083-4a2e-bb1c-817aecd6946c.jpg" alt="Home">
     </li>
     <li>
-        <h3>Gameplay</h3>
-        <img src="https://user-images.githubusercontent.com/84588706/150975385-ffe66572-0ff8-429e-8390-166f23b3784b.jpg" alt="Gameplay">
+        <h3>Game</h3>
+        <img src="https://user-images.githubusercontent.com/84588706/150975385-ffe66572-0ff8-429e-8390-166f23b3784b.jpg" alt="Game">
     </li>
     <li>
-        <h3></h3>
-        <img src="" alt="">
+        <h3>Gameplay</h3>
+        <img src="(https://user-images.githubusercontent.com/84588706/150975552-9dfbc6a5-eda9-4dde-a6ca-b4ea312816b6.jpg" alt="Gameplay">
     </li>
     <li>
         <h3></h3>
@@ -53,7 +53,7 @@
 
 ![Game]()
 
-![Gameplay](https://user-images.githubusercontent.com/84588706/150975552-9dfbc6a5-eda9-4dde-a6ca-b4ea312816b6.jpg)
+![Gameplay])
 
 ![Result](https://user-images.githubusercontent.com/84588706/150975615-3abce233-9c7f-4eb7-94c6-b7681c5cdc44.jpg)
 
