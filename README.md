@@ -39,8 +39,8 @@
         <img src="(https://user-images.githubusercontent.com/84588706/150975552-9dfbc6a5-eda9-4dde-a6ca-b4ea312816b6.jpg" alt="Gameplay">
     </li>
     <li>
-        <h3></h3>
-        <img src="" alt="">
+        <h3>Result</h3>
+        <img src="https://user-images.githubusercontent.com/84588706/150975615-3abce233-9c7f-4eb7-94c6-b7681c5cdc44.jpg" alt="Result">
     </li>
     <li>
         <h3></h3>
@@ -55,6 +55,6 @@
 
 ![Gameplay])
 
-![Result](https://user-images.githubusercontent.com/84588706/150975615-3abce233-9c7f-4eb7-94c6-b7681c5cdc44.jpg)
+![Result]()
 
 ![Guide](https://user-images.githubusercontent.com/84588706/151102973-622e7ed0-6de6-44cb-a21b-2ee45b83b922.jpg)
