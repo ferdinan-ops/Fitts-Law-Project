@@ -36,7 +36,7 @@
     </li>
     <li>
         <h3>Gameplay</h3>
-        <img src="(https://user-images.githubusercontent.com/84588706/150975552-9dfbc6a5-eda9-4dde-a6ca-b4ea312816b6.jpg" alt="Gameplay">
+        <img src="https://user-images.githubusercontent.com/84588706/150975552-9dfbc6a5-eda9-4dde-a6ca-b4ea312816b6.jpg" alt="Gameplay">
     </li>
     <li>
         <h3>Result</h3>
